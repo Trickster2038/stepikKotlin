@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="app24_onResume/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app24_onResume.iml" filepath="$PROJECT_DIR$/.idea/modules/app24_onResume.iml" group="app24_onResume" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/checker/checker.iml" filepath="$PROJECT_DIR$/.idea/modules/checker/checker.iml" group="app24_onResume/checker" />
+    </modules>
+  </component>
+</project>
